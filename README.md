@@ -1,2 +1,9 @@
-# GoCalc
-Simple Calculator with Golang,help to beginners study about Golang 
+ # Py >> Go
+- In this tool we use
+- print >>  fmt.Println
+- input() >>  fmt.Scan
+- if condition: >> if condition {......}
+- elif: >> else if {.....}
+- else: >> else{....}
+- def name() >> func name(){.....}
+
